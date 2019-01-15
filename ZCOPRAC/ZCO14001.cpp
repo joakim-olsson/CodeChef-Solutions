@@ -1,12 +1,11 @@
 /**
 * @Author: Joakim Olsson <joakss>
 * @Date:   2019-01-06T23:03:55+01:00
- * @Last modified by:   joakss
- * @Last modified time: 2019-01-06T23:06:00+01:00
+ * @Last modified by:   lomo133
+ * @Last modified time: 2019-01-15T22:44:35+01:00
 * Link to problem: https://www.codechef.com/ZCOPRAC/problems/ZCO14001
 */
 
-#include <cstdio>
 #include <iostream>
 #include "map"
 #include "vector"
